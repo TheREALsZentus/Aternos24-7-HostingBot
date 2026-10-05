@@ -1,9 +1,9 @@
 {
-  "name": "afkaye",
+  "name": "BoySikke",
   "bot-account": {
-    "username": "afkaye",
+    "username": "BoySikke",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "sZentus.aternos.me",
@@ -24,7 +24,7 @@
     },
     "anti-afk": {
       "enabled": true,
-      "sneak": true
+      "sneak": false
     },
     "chat-messages": {
       "enabled": false,
