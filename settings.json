@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "afkaye",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "afkaye",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
-    "version": "",
+    "ip": "sZentus.aternos.me",
+    "port": 21286,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
@@ -37,7 +37,7 @@
       ]
     },
     "chat-log": true,
-    "auto-reconnect": true,
+    "auto-reconnect": false,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000,
     "periodic-rejoin": {
@@ -78,8 +78,8 @@
     "place-night": false
   },
   "discord": {
-    "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1556501839103402056/D9j6Bmj1VRjr4WGEZ_J3C8BNq8D7Mj8ju7DLWyKYkTFWQlR3WKvN3lElxfOq8TfqydWz",
     "events": {
       "connect": true,
       "disconnect": true,
